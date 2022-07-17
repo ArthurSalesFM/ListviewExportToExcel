@@ -72,7 +72,7 @@ namespace ListviewExportToExcel{
 
             // QUANDO ADICIONAR AS REFERENCIAS, RETIRAR O COMENTARIO ABAIXO...
 
-            /*
+            
             Microsoft.Office.Interop.Excel.Application app = new Microsoft.Office.Interop.Excel.Application();
             app.Visible = true;
             Microsoft.Office.Interop.Excel.Workbook wb = app.Workbooks.Add(1);
@@ -94,7 +94,7 @@ namespace ListviewExportToExcel{
                 }
                 linha++;
             }
-            */
+            
         }
     }
 }
