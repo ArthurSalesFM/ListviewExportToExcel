@@ -5,7 +5,7 @@
 *Adicionar em REFERENCIAS / Microsoft Excel 16.*
 
 ### Sistem desenvolvido  na IDE
-**Visual Studio.*
+* *Visual Studio.*
 
 #### Linguagem Utilizada 
-**C#*
+* *C#*
