@@ -4,8 +4,8 @@
 ## C# Com WINDOWS FORMS.
 *Adicionar em REFERENCIAS / Microsoft Excel 16.*
 
-### Desenvolvido  na IDE
-* *Visual Studio.*
+### Desenvolvido com a Ferramenta.
+* **Visual Studio.**
 
 #### Linguagem Utilizada 
-* *C#*
+* **C#**
